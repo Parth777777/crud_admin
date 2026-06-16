@@ -1,0 +1,10 @@
+{
+  "name": "@foodly/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "schemas.ts",
+  "types": "schemas.ts",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
